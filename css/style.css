@@ -1,0 +1,223 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #f5f7fa;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-family: Montserrat;
+}
+.wrapper {
+  background: #fff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  height: 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.my-photo {
+  width: 370px;
+  height: auto;
+}
+.about-me {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.contact-cont {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 60px;
+}
+.contact-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.contact-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #8e949c;
+}
+.contact-link-title {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 10px;
+}
+.tech {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.tech-cont {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55;
+}
+.tech-skills {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 15px;
+}
+.tech-text {
+  color: #90969e;
+}
+.soft-skills {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 15px;
+}
+.soft-text {
+  color: #90969e;
+}
+.soft {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  margin-top: 55px;
+}
+.soft-cont {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55;
+}
+.about-proff {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+}
+.description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+}
+.info {
+  margin-bottom: 65px;
+}
+.project-title {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.project-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+}
+.tecnology-name {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #595959;
+}
+.points {
+  font-size: 14px;
+  font-weight: 100;
+  line-height: 24px;
+  color: #595959;
+}
+.project-item {
+  font-weight: 700;
+  margin-left: 15px;
+}
+.project-cont {
+  margin-bottom: 55px;
+}
+.prof-title {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.prof-color {
+  color: #ff7f29;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.prof-time {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #aeaeae;
+}
+.vidstup {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.prof-style {
+  color: #7a7a7a;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 25px;
+}
+.educ {
+  margin-top: 10px;
+}
+.spec {
+  margin-bottom: 15px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.wanna-orange {
+  color: #ff7f29;
+}
+.lev {
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 24px;
+  color: #ff7f29;
+  margin-bottom: px;
+  margin-left: 13px;
+}
+.pre {
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 24px;
+  margin-left: 13px;
+  color: #fff;
+}
+.sayt {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #aeaeae;
+}
